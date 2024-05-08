@@ -2,7 +2,7 @@
 # **Tópicos JavaScript**
 
 > [!NOTE]
-> ***Esta é uma breve introdução lógica aos tipos de estruturas em JS***
+> ***Esta é uma breve introdução lógica aos tipos de estruturas em JS***<br>
 > ***Exemplos completos estão no arquivo -->*** <span>`topics.js`</span>
 
 ---
@@ -73,8 +73,33 @@
 
 ### _For loop_
 ```JavaScript
+    //For é uma das estruturas de repetição, e serve para executar um bloco ou mais
+    //de codigo repetidas vezes, com base em parametros previamente estipulados.
+
+    for(i = 0 ; i < 2 ; i++){
+        console.log(i)  //retornara: 0 -> 1
+    }
+
+    // i = 0 inicializa o contador
+    // i > 2 condiciona a repetição enquanto i for menor que 2
+    // i++ soma 1 ao i cada vez que o bloco é executado
     
+```
+### _While loop_
+```JavaScript
+    //While também é uma estrutura de repetição, porém é composta apenas de uma condição,
+    //que enquanto verdadeira permite a repetição do bloco de codigo.
+    const i = 0
+
+    while( i < 2 ){
+        console.log(i) //retornara: 0 -> 1
+        i++
+    }
     
+    //const i = 0 inicializa o contador
+    //i < 2 é a condição
+    //logo enquanto i for menor que 2 ele continuara repetindo
+    //i++ soma 1 ao i a cada repetição do bloco
 ```
 ---
 
