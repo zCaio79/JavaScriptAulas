@@ -111,7 +111,8 @@
 
 # `</Fim>` <br>Documented By _zCaio79_
 
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/129559720?s=400&u=00e5ce096d7d7820bf6eab559b6ed448e7ebce60&v=4" width="130px;"><br><sub> Caio Mendes </sub>](https://github.com/zCaio79)
 |:-:|
 
