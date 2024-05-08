@@ -1,6 +1,10 @@
 
 # **Tópicos JavaScript**
 
+> [!NOTE]
+> ***Exemplos completos estão no arquivo -->*** <span>`topics.js`</span>
+
+---
 > Aluno : ***Caio Henrique Faria Mendes*** | :shipit:
 
 ### **Conteúdos Abordados** :
@@ -9,9 +13,6 @@
 - [ Switch Case ]
 - [ For loop ]
 - [ While loop ]
-
-> [!NOTE]
-> ***Exemplos completos estão no arquivo -->*** <span>`topics.js`</span>
 
 ---
 ### _IF_
@@ -24,7 +25,7 @@
 
     if (condição) { ação } 
 
-    //Caso nenhuma condição seja Falsa outra ação é disparada.
+    //Caso nenhuma condição seja Verdadeira, outra ação é disparada pelo else.
     else { outra ação } 
 ```
 ### _Else If_
@@ -60,13 +61,19 @@
             break
 
         //Caso alvo não satisfaça nenhuma condição case,
-        //o default dispara uma ultima opção de ação. Obs: Break serve para quebrar a execução das comparações,
-        //assim que uma é satisfeita.
+        //o default dispara uma ultima opção de ação.
 
         default:
             bloco de ação
             break
     }
+```
+#### (Obs: Break serve para quebrar a execução das comparações assim que uma é satisfeita.)
+
+### _For loop_
+```JavaScript
+    
+    
 ```
 ---
 
