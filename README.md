@@ -45,6 +45,7 @@
     else { outra ação }
 ```
 ### _Swicth Case_
+> Estrutura Condicional baseada em comparação composta por (`Switch` = objeto , `case` = condição), seja calculos, estados booleanos, etc ... 
 ```JavaScript
     //Utilizado quando temos varias condições de comparação, substituindo o uso do If.
 
@@ -75,6 +76,7 @@
 ---
 # **Estruturas de Repetição** :dizzy:
 ### _For loop_
+> Estrutura de Repetição composta pelo comando `for` que estabelece um contador e uma condição, que enquanto verdadeira permite que o codigo seja executado varias vezes até que ela se torne falsa.
 ```JavaScript
     //For é uma das estruturas de repetição, e serve para executar um bloco ou mais
     //de codigo repetidas vezes, com base em parametros previamente estipulados.
@@ -89,6 +91,7 @@
     
 ```
 ### _While loop_
+> Estrutura de repetição composta pelo comando `while` e uma condição, que enquanto verdadeira permite que o codigo seja executado varias vezes até que ela se torne falsa.
 ```JavaScript
     //While também é uma estrutura de repetição, porém é composta apenas de uma condição,
     //que enquanto verdadeira permite a repetição do bloco de codigo.
