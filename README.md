@@ -2,6 +2,7 @@
 # **Tópicos JavaScript**
 
 > [!NOTE]
+> ***Esta é uma breve introdução lógica aos tipos de estruturas em JS***
 > ***Exemplos completos estão no arquivo -->*** <span>`topics.js`</span>
 
 ---
