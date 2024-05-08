@@ -1,5 +1,5 @@
 
-# **@octocatTópicos JavaScript :shipit:**
+# **Tópicos JavaScript :shipit:**
 
 > [!NOTE]
 > Aluno : ***Caio Henrique Faria Mendes***
