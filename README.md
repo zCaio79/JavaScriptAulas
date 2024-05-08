@@ -1,5 +1,5 @@
 
-# **Tópicos JavaScript**
+# **> Estruturas JavaScript <**
 
 > [!NOTE]
 > ***Esta é uma breve introdução lógica aos tipos de estruturas em JS***<br>
@@ -8,7 +8,7 @@
 ---
 > Aluno : ***Caio Henrique Faria Mendes*** | :shipit:
 
-### **Conteúdos Abordados** :
+## **Conteúdos Abordados** :
 
 - [ IF , Else IF e Else ]
 - [ Switch Case ]
@@ -16,6 +16,8 @@
 - [ While loop ]
 
 ---
+# **Estruturas Condicionais** :mag:
+
 ### _IF_
 > Estrutura Condicional baseada em comparação composta por (`if` , `else if` , `else`), seja calculos, estados booleanos, etc ... 
 
@@ -70,7 +72,8 @@
     }
 ```
 #### (Obs: Break serve para quebrar a execução das comparações assim que uma é satisfeita.)
-
+---
+# **Estruturas de Repetição** :dizzy:
 ### _For loop_
 ```JavaScript
     //For é uma das estruturas de repetição, e serve para executar um bloco ou mais
@@ -103,6 +106,10 @@
 ```
 ---
 
+# `</Fim>` <br>Documented By _zCaio79_
+
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/129559720?s=400&u=00e5ce096d7d7820bf6eab559b6ed448e7ebce60&v=4" width="130px;"><br><sub> Caio Mendes </sub>](https://github.com/zCaio79)
 |:-:|
+
+---
