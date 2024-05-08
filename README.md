@@ -1,8 +1,8 @@
 
-# **Tópicos JavaScript :shipit:**
+# **Tópicos JavaScript**
 
 > [!NOTE]
-> Aluno : ***Caio Henrique Faria Mendes***
+> Aluno : ***Caio Henrique Faria Mendes*** :shipit:
 
 ### **Conteúdos Abordados** :
 
