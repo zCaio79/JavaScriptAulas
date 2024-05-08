@@ -13,6 +13,8 @@ else {
     console.log("Você é maior de idade!!");
 }
 
+
+
 // SWITCH CASE
 
 const numero = 2;
