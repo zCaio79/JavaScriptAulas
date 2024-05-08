@@ -10,7 +10,8 @@
 - [ For loop ]
 - [ While loop ]
 
-> [!NOTE] ***Exemplos completos estão no arquivo -->** `topics.js`
+> [!NOTE]
+> ***Exemplos completos estão no arquivo -->*** <span>`topics.js`</span>
 
 ---
 ### _IF_
@@ -31,7 +32,8 @@
 ```JavaScript
     if (condição) { ação } 
 
-    //Caso a primeira condição não seja Verdadeira, podemos adicionar uma segunda comparação, que dispara outra ação.
+    //Caso a primeira condição não seja Verdadeira, 
+    //podemos adicionar uma segunda comparação, que dispara outra ação.
 
     else if (segunda condição) { outra ação }
     //Caso nenhuma das condições seja satisfeita o Else dispara outra ação.
@@ -44,7 +46,8 @@
 
     Switch(alvo){
 
-        //Observa se o alvo satisfaz alguma condição e então dispara seu respectivo bloco de codigo presente no case.
+        //Observa se o alvo satisfaz alguma condição e,
+        // então dispara seu respectivo bloco de codigo presente no case.
 
         case (condição):
             bloco de ação
@@ -56,7 +59,9 @@
             bloco de ação
             break
 
-        //Caso alvo não satisfaça nenhuma condição case, o default dispara uma ultima opção de ação. Obs: Break serve para quebrar a execução das comparações assim que uma é satisfeita.
+        //Caso alvo não satisfaça nenhuma condição case,
+        //o default dispara uma ultima opção de ação. Obs: Break serve para quebrar a execução das comparações,
+        //assim que uma é satisfeita.
 
         default:
             bloco de ação
