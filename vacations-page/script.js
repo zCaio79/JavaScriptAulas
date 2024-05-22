@@ -18,11 +18,12 @@ btns.forEach(btn => {
             if (btn.id == desc.id) {
                 if (desc.classList.contains('active')){
                     desc.classList.remove('active')
-                    console.log("removeu")
                 }else{
                     desc.classList.add('active')
-                    console.log("adicionou")
+                    desc.scrollIntoView({ behavior: 'smooth', block: 'center' });
                 }
+            }else{
+                desc.classList.remove('active')
             }
         })
     })
