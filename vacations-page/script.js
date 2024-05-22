@@ -2,6 +2,8 @@ const stars = document.querySelectorAll('.fa-star')
 const btns = document.querySelectorAll('.btn-info')
 const descs = document.querySelectorAll('.desc')
 
+const imgs = document.querySelectorAll('img')
+
 stars.forEach(star => {
     star.addEventListener('click', function () {
         if (star.classList.contains('fa-regular')) {
@@ -16,13 +18,13 @@ btns.forEach(btn => {
     btn.addEventListener('click', function () {
         descs.forEach(desc => {
             if (btn.id == desc.id) {
-                if (desc.classList.contains('active')){
+                if (desc.classList.contains('active')) {
                     desc.classList.remove('active')
-                }else{
+                } else {
                     desc.classList.add('active')
                     desc.scrollIntoView({ behavior: 'smooth', block: 'center' });
                 }
-            }else{
+            } else {
                 desc.classList.remove('active')
             }
         })
