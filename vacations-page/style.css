@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -74,7 +75,7 @@ h2 {
 }
 
 .btn-info:hover {
-    color: #3b1f65a2;
+    color: aliceblue;
     background-color: rgba(240, 248, 255, 0.192);
 }
 
@@ -150,18 +151,22 @@ header {
     width: 98%;
     height: 5vh;
     top: 0;
-    margin-top: 15px;
+    margin: 15px 18px 0px 18px;
     display: flex;
     position: absolute;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: flex-start;
+}
+
+.contact{
+    display: flex;
+    gap: 10px;
 }
 
 header a {
     text-decoration: none;
-    color: rgb(219, 192, 255);
+    color: rgba(255, 255, 255, 0.538);
     font-size: 20px;
-    margin-right: 10px;
 }
 
 header a:hover {
